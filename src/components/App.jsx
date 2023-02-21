@@ -1,10 +1,12 @@
 import Counter from "./Counter/Counter";
+import Modal from "./Counter/Modal/Modal";
 
 export const App = () => {
   return (
   <>
   <Counter/>
-  <h1>54545</h1>
+  <Modal/>
+  
   </>
   );
 };
